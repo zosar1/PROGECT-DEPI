@@ -1,0 +1,5 @@
+*.rar filter=lfs diff=lfs merge=lfs -text
+*.rardir filter=lfs diff=lfs merge=lfs -text
+. filter=lfs diff=lfs merge=lfs -text
+*.rarcopy filter=lfs diff=lfs merge=lfs -text
+C:/Users/Administrator/Downloads/depi[[:space:]]procect.rar filter=lfs diff=lfs merge=lfs -text
